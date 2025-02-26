@@ -1,2 +1,2 @@
-# first-project-car-fental
+# karishma first-project
 this is my first Git Repository.
