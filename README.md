@@ -1,4 +1,4 @@
 # My first-project
-this is my first Git Repository.
+Amazon Clone
 <br>
-Author - karishma Sharma
+AFirst Project
